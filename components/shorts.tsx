@@ -28,10 +28,10 @@ const Shorts = () => {
 
       <div className="flex justify-center">
         <div className="mt-10 grid sm:grid-cols-1 lg:grid-cols-2 gap-5">
-          {/* <YouTube videoId="Qy0C0_Ip-wo" opts={videoOptions} /> */}
-          {/* <YouTube videoId="edgrM0Y-Cuk" opts={videoOptions} /> */}
-          {/* <YouTube videoId="SJsC0OHejWM" opts={videoOptions} /> */}
-          {/* <YouTube videoId="2mP9Id0NfrA" opts={videoOptions} /> */}
+          <YouTube videoId="Qy0C0_Ip-wo" opts={videoOptions} />
+          <YouTube videoId="edgrM0Y-Cuk" opts={videoOptions} />
+          <YouTube videoId="SJsC0OHejWM" opts={videoOptions} />
+          <YouTube videoId="2mP9Id0NfrA" opts={videoOptions} />
         </div>
       </div>
     </div>

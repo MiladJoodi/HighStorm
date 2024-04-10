@@ -29,10 +29,10 @@ const Videos = () => {
 
       <div className="flex justify-center">
         <div className="mt-10 grid sm:grid-cols-1 lg:grid-cols-2 gap-5">
-          {/* <YouTube videoId="Siexk0ZFKCw" opts={videoOptions} /> */}
-          {/* <YouTube videoId="C0cbOOecml8" opts={videoOptions} /> */}
-          {/* <YouTube videoId="SjqmjAq2YAE" opts={videoOptions} /> */}
-          {/* <YouTube videoId="ofbDgjXAs5s" opts={videoOptions} /> */}
+          <YouTube videoId="Siexk0ZFKCw" opts={videoOptions} />
+          <YouTube videoId="C0cbOOecml8" opts={videoOptions} />
+          <YouTube videoId="SjqmjAq2YAE" opts={videoOptions} />
+          <YouTube videoId="ofbDgjXAs5s" opts={videoOptions} />
         </div>
       </div>
     </div>
